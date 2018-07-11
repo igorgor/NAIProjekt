@@ -1,10 +1,9 @@
 package Projekt;
-
+//elo
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-
 public class General extends Point {
 	private List<Point> pointList;
 	private static Color[] colorTab = { Color.BLACK, Color.YELLOW, Color.RED, Color.GRAY, Color.MAGENTA,
